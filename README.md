@@ -1,9 +1,12 @@
 # Artisan Jewels - Handcrafted Jewelry Collection
 
+
+
 Welcome to **Artisan Jewels**, a modern jewelry e-commerce app built with Next.js and React!  
 Browse, like, and shop unique handcrafted jewelry pieces from talented artisans.
 
 ---
+<img width="1888" height="856" alt="Screenshot 2025-08-02 163518" src="https://github.com/user-attachments/assets/374687a6-ee08-4866-8751-547b4dd7bf0e" />
 
 ## 🚀 Features
 
