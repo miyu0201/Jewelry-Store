@@ -1,0 +1,179 @@
+[
+    {
+        "id": 1,
+        "name": "Silver Moon Pendant",
+        "description": "Elegant sterling silver pendant featuring a crescent moon design with delicate filigree work",
+        "likes": 1847,
+        "price": 89.99,
+        "image": "/1.jpg",
+        "category": "pendants",
+        "dateAdded": "2023-03-15T14:30:00Z",
+        "liked": false
+    },
+    {
+        "id": 2,
+        "name": "Rose Gold Vine Ring",
+        "description": "Handcrafted rose gold ring with intricate vine and leaf pattern",
+        "likes": 456,
+        "price": 124.50,
+        "image": "/2.jpg",
+        "category": "rings",
+        "dateAdded": "2023-06-22T09:15:00Z",
+        "liked": false
+    },
+    {
+        "id": 3,
+        "name": "Sapphire Drop Earrings",
+        "description": "Stunning blue sapphire earrings with silver setting featuring a classic teardrop design",
+        "likes": 1253,
+        "price": 156.75,
+        "image": "/3.jpg",
+        "category": "earrings",
+        "dateAdded": "2023-09-05T16:45:00Z",
+        "liked": false
+    },
+    {
+        "id": 4,
+        "name": "Pearl Strand Necklace",
+        "description": "Classic freshwater pearl necklace with gold clasp, perfect for formal occasions",
+        "likes": 892,
+        "price": 198.00,
+        "image": "/4.jpg",
+        "category": "necklaces",
+        "dateAdded": "2023-11-30T11:20:00Z",
+        "liked": false
+    },
+    {
+        "id": 5,
+        "name": "Abstract Copper Brooch",
+        "description": "Modern art-inspired brooch with flowing copper curves and patina finish",
+        "likes": 345,
+        "price": 67.25,
+        "image": "/5.jpg",
+        "category": "brooches",
+        "dateAdded": "2024-01-18T13:40:00Z",
+        "liked": false
+    },
+    {
+        "id": 6,
+        "name": "Leather Cord Bracelet",
+        "description": "Customizable leather bracelet with silver beads and toggle clasp",
+        "likes": 567,
+        "price": 42.99,
+        "image": "/6.jpg",
+        "category": "bracelets",
+        "dateAdded": "2024-03-07T10:25:00Z",
+        "liked": false
+    },
+    {
+        "id": 7,
+        "name": "Celtic Knot Ring",
+        "description": "Detailed sterling silver ring featuring traditional Celtic knotwork",
+        "likes": 1456,
+        "price": 78.50,
+        "image": "/7.jpg",
+        "category": "rings",
+        "dateAdded": "2024-05-12T15:50:00Z",
+        "liked": false
+    },
+    {
+        "id": 8,
+        "name": "Beaded Hair Clip",
+        "description": "Elegant hair accessory with semi-precious stones and gold wire",
+        "likes": 234,
+        "price": 29.95,
+        "image": "/8.jpg",
+        "category": "hair-accessories",
+        "dateAdded": "2024-07-25T08:35:00Z",
+        "liked": false
+    },
+    {
+        "id": 9,
+        "name": "Diamond Wedding Set",
+        "description": "Matching engagement ring and wedding band with conflict-free diamonds",
+        "likes": 1789,
+        "price": 1299.99,
+        "image": "/9.jpg",
+        "category": "wedding-jewelry",
+        "dateAdded": "2024-09-14T12:15:00Z",
+        "liked": false
+    },
+    {
+        "id": 10,
+        "name": "Turquoise Anklet",
+        "description": "Delicate silver chain anklet with natural turquoise stones",
+        "likes": 445,
+        "price": 34.75,
+        "image": "/10.jpg",
+        "category": "anklets",
+        "dateAdded": "2024-11-03T17:40:00Z",
+        "liked": false
+    },
+    {
+        "id": 11,
+        "name": "Amethyst Pendant Necklace",
+        "description": "Stunning amethyst stone pendant on sterling silver chain",
+        "likes": 1234,
+        "price": 112.50,
+        "image": "/11.jpg",
+        "category": "necklaces",
+        "dateAdded": "2023-02-28T14:20:00Z",
+        "liked": false
+    },
+    {
+        "id": 12,
+        "name": "Hammered Gold Ring",
+        "description": "Textured 14k gold ring with unique hammered finish",
+        "likes": 678,
+        "price": 245.00,
+        "image": "/12.jpg",
+        "category": "rings",
+        "dateAdded": "2023-05-17T11:30:00Z",
+        "liked": false
+    },
+    {
+        "id": 13,
+        "name": "Crystal Stud Earrings",
+        "description": "Sparkling crystal studs in white gold setting",
+        "likes": 1567,
+        "price": 85.99,
+        "image": "/13.jpg",
+        "category": "earrings",
+        "dateAdded": "2023-08-09T16:05:00Z",
+        "liked": false
+    },
+    {
+        "id": 14,
+        "name": "Charm Bracelet Set",
+        "description": "Silver charm bracelet with interchangeable charm collection",
+        "likes": 789,
+        "price": 134.75,
+        "image": "/14.jpg",
+        "category": "bracelets",
+        "dateAdded": "2023-10-22T09:45:00Z",
+        "liked": false
+    },
+    {
+        "id": 15,
+        "name": "Geometric Pendant",
+        "description": "Modern geometric pendant in brushed silver with clean lines",
+        "likes": 890,
+        "price": 92.25,
+        "image": "/15.jpg",
+        "category": "pendants",
+        "dateAdded": "2024-01-05T15:25:00Z",
+        "liked": false
+    },
+    {
+        "id": 16,
+        "name": "Vintage Cameo Brooch",
+        "description": "Classic cameo brooch with intricate carved detail in antique setting",
+        "likes": 432,
+        "price": 156.00,
+        "image": "/16.jpg",
+        "category": "brooches",
+        "dateAdded": "2024-02-19T10:50:00Z",
+        "liked": false
+    }
+  
+]

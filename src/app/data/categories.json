@@ -1,0 +1,11 @@
+[
+    { "displayName": "Rings", "slug": "rings" },
+    { "displayName": "Necklaces", "slug": "necklaces" },
+    { "displayName": "Earrings", "slug": "earrings" },
+    { "displayName": "Bracelets", "slug": "bracelets" },
+    { "displayName": "Pendants", "slug": "pendants" },
+    { "displayName": "Brooches", "slug": "brooches" },
+    { "displayName": "Anklets", "slug": "anklets" },
+    { "displayName": "Hair Accessories", "slug": "hair-accessories" },
+    { "displayName": "Wedding Jewelry", "slug": "wedding-jewelry" }
+]
