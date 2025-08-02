@@ -1,37 +1,100 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://nextjs.org/docs/app/api-reference/cli/create-next-app).
+# Artisan Jewels - Handcrafted Jewelry Collection
 
-## Getting Started
+Welcome to **Artisan Jewels**, a modern jewelry e-commerce app built with Next.js and React!  
+Browse, like, and shop unique handcrafted jewelry pieces from talented artisans.
 
-First, run the development server:
+---
 
+## 🚀 Features
+
+- **Browse Jewelry:** Explore rings, necklaces, earrings, and more
+- **Shopping Cart:** Add, remove, and update quantities for items
+- **Liked Items:** Heart your favorites and view them in a dedicated page
+- **Breadcrumb Navigation:** Easily see where you are in the site
+- **Optimized Images:** Fast loading and high quality
+- **Persistent Cart & Likes:** Your selections are saved across sessions
+
+---
+
+## 🛠️ Getting Started
+
+### 1. **Install Dependencies**
 ```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+### 2. **Run the Development Server**
+```bash
+npm run dev
+```
+Visit [http://localhost:3000](http://localhost:3000) in your browser.
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+---
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+## 📂 Project Structure
 
-## Learn More
+```
+src/
+  app/
+    components/      # Reusable UI components (Navbar, Breadcrumb, ModelCard, etc.)
+    context/         # Cart context for global state management
+    data/            # Jewelry data (models.json)
+    hooks/           # Custom React hooks
+    lib/             # Data fetching logic
+    types/           # TypeScript types
+    3d-models/       # Jewelry collection and detail pages
+    cart/            # Shopping cart page
+    liked-items/     # Liked items page
+    layout.tsx       # App layout
+    page.tsx         # Home page
+public/
+  ...images
+```
 
-To learn more about Next.js, take a look at the following resources:
+---
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🖼️ Image Optimization
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
+- Uses Next.js `<Image />` for fast, responsive images
+- All jewelry images are in `/public`
+- Images are compressed and served in modern formats
 
-## Deploy on Vercel
+---
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## 🛒 Shopping Cart
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
-# Jewelry-Store
+- Add items from any jewelry card or detail page
+- Update quantity or remove items directly in the cart
+- Cart icon in navbar shows item count
+
+---
+
+## ❤️ Liked Items
+
+- Heart any jewelry item to save it to your favorites
+- View all liked items in the "Liked Items" page
+- Clear all liked items with one click
+
+---
+
+## 🧭 Breadcrumbs
+
+- Breadcrumbs show your current location for easy navigation
+- Present on all main pages (Home, Jewelry, Cart, Liked Items, Item Detail)
+
+---
+
+
+## 📦 Build & Deploy
+
+To build for production:
+```bash
+npm run build
+```
+Then start the server:
+```bash
+npm start
+```
+
+---
+
